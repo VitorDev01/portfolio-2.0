@@ -10,7 +10,8 @@
 }
 
 body {
-  background: url(1j6F.gif);  
+  background: rgb(10,128,52);
+  background: linear-gradient(90deg, rgba(10,128,52,1) 0%, rgba(70,159,118,1) 100%);
   background-size: fixed;
   max-height: 100%;
   text-rendering: optimizeLegibility;
